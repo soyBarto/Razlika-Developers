@@ -9,4 +9,5 @@ Trello: https://trello.com/b/CUZ7uiXO/proyecto-ciclo-4
 
 Integrantes:
 
-Soy Leonel Pimienta.
+• Leonel Pimienta
+• Oscar Rozo
