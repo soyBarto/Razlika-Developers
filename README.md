@@ -9,5 +9,5 @@ Trello: https://trello.com/b/CUZ7uiXO/proyecto-ciclo-4
 
 Integrantes:
 
-• Leonel Pimienta
-• Oscar Rozo
+• Leonel Pimienta.
+• Oscar Rozo.
