@@ -18,7 +18,7 @@ Descripción: Estudiante de Ingeniería de Sistemas, a quien le gusta la tecnolo
 ⨀ Integrante numero 2 : <br />
 Nombre: Leonel Pimienta <br />
 CC: 1006616982 <br />
-Correo: ljpr770@gmail.com <br />
+Correo: leojpr770@gmail.com <br />
 
 ⨀ Integrante numero 3 : <br />
 Nombre: Oscar Rozo <br />
