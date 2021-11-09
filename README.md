@@ -1,6 +1,6 @@
 # Razlika-Developers
 La programación y el desarrollo web es una tarea que te desafia, donde pones la creatividad
-y la capacidad de compreder lo que se requiere para hacer este proyecto.
+y la capacidad de comprender lo que se requiere para hacer este proyecto.
 
 Este proyecto es donde se moldea, se prueba, y se ejecuta codigos de React y porder tener 
 una aplicación funcional con su respectiva base de datos y todo lo que ella requiera.
@@ -17,9 +17,8 @@ Descripción: Estudiante de Ingeniería de Sistemas, a quien le gusta la tecnolo
 
 ⨀ Integrante numero 2 : <br />
 Nombre: Leonel Pimienta <br />
-CC:  <br />
-Correo:  <br />
-Descripción:  <br />
+CC: 1006616982 <br />
+Correo: ljpr770@gmail.com <br />
 
 ⨀ Integrante numero 3 : <br />
 Nombre: Oscar Rozo <br />
