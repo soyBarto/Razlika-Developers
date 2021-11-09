@@ -9,7 +9,7 @@ Trello: https://trello.com/b/CUZ7uiXO/proyecto-ciclo-4
 
 Integrantes:
 
-⨀ Integrante numero 1 :
+⨀ Integrante numero 1 : <br />
 Nombre: Carlos Andrés Hernández Agudelo
 CC: 1007854595
 Correo: carlosheragu2003@gmail.com
