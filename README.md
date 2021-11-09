@@ -23,6 +23,5 @@ Descripción:  <br />
 
 ⨀ Integrante numero 3 : <br />
 Nombre: Oscar Rozo <br />
-CC:  <br />
-Correo:  <br />
-Descripción: <br />
+CC: 1000324178 <br />
+Correo: michorozo@gmail.com <br />
