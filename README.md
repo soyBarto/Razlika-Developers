@@ -30,3 +30,9 @@ Correo: michorozo@gmail.com <br />
 Nombre: Jose David Cárdenas Oses <br />
 CC: 1013682052 <br />
 Correo: jdcardenas44@ucatolica.edu.co <br />
+
+
+⨀ Integrante numero 5 : <br />
+Nombre: José Daniel Torres Fernández <br />
+CC: 1152696368 <br />
+Correo: jdtorresf@unal.edu.co <br />
