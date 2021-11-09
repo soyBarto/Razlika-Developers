@@ -25,3 +25,9 @@ Descripción:  <br />
 Nombre: Oscar Rozo <br />
 CC: 1000324178 <br />
 Correo: michorozo@gmail.com <br />
+
+
+⨀ Integrante numero 4 : <br />
+Nombre: Jose David Cárdenas Oses <br />
+CC: 1013682052 <br />
+Correo: jdcardenas44@ucatolica.edu.co <br />
