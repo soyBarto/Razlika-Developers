@@ -10,20 +10,19 @@ Trello: https://trello.com/b/CUZ7uiXO/proyecto-ciclo-4
 Integrantes:
 
 ⨀ Integrante numero 1 : <br />
-Nombre: Carlos Andrés Hernández Agudelo
-CC: 1007854595
-Correo: carlosheragu2003@gmail.com
-Descripción: Estudiante de Ingeniería de Sistemas, a quien le gusta la tecnología y la programación, con conocimientos en programas como Python, Javascript o C++ y que le gusta los diseños Front-End.
+Nombre: Carlos Andrés Hernández Agudelo <br />
+CC: 1007854595 <br />
+Correo: carlosheragu2003@gmail.com <br />
+Descripción: Estudiante de Ingeniería de Sistemas, a quien le gusta la tecnología y la programación, con conocimientos en programas como Python, Javascript o C++ y que le gusta los diseños Front-End. <br />
 
+⨀ Integrante numero 2 : <br />
+Nombre: Leonel Pimienta <br />
+CC:  <br />
+Correo:  <br />
+Descripción:  <br />
 
-⨀ Integrante numero 2 :
-Nombre: Leonel Pimienta
-CC: 
-Correo: 
-Descripción: 
-
-⨀ Integrante numero 3 :
-Nombre: Oscar Rozo
-CC: 
-Correo: 
-Descripción:
+⨀ Integrante numero 3 : <br />
+Nombre: Oscar Rozo <br />
+CC:  <br />
+Correo:  <br />
+Descripción: <br />
